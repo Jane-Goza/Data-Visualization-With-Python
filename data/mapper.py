@@ -13,7 +13,7 @@ plt.ylabel("World population by Billions")
 plt.xlabel("Population Growth by Year")
 
 #add a title to the chart
-plt.title("World Population Growth", pad="20")
+plt.title("Olympic Sports and Medals", pad="20")
 
 # run the show method (this lives inside the pyplot package)
 # this will generate a graph in a new window
